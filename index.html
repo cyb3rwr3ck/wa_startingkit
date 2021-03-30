@@ -1,20 +1,29 @@
 <html>
-    <head>
-        <script>
-            window.onload = function() {
-                var path = window.location.pathname;
-                if (path.endsWith('index.html')) {
-                    path = path.substr(path, path.length - 'index.html'.length);
-                }
-                var url = 'https://play.workadventu.re/_/global/'+window.location.host+path+'map.json';
-                document.getElementById('mapLink').href = url;
-                document.getElementById('mapLink').innerText = url;
-            };
-        </script>
-    </head>
-    <body>
-        This website contains a map for <a href="https://workadventu.re">Workadventu.re</a>.
-        <br/>
-        You can access this map at <a id="mapLink" href=""></a>
-    </body>
+  <head>
+    <script>
+      window.onload = function () {
+        var path = window.location.pathname;
+        if (path.endsWith("index.html")) {
+          path = path.substr(path, path.length - "index.html".length);
+        }
+        var url =
+          "https://play.easteregg.cyb3rwr3ck.net/_/global/" +
+          window.location.host +
+          path +
+          "HiHa.json";
+        document.getElementById("mapLink").href = url;
+        document.getElementById("mapLink").innerText = url;
+      };
+    </script>
+  </head>
+  <body>
+    This website contains a map for
+    <a href="https://play.easteregg.cyb3rwr3ck.net">Easteregg \\ Cyb3rwr3ck</a>.
+    <br />
+    You can access this map at
+    <a
+      id="mapLink"
+      href="https://play.easteregg.cyb3rwr3ck.net/_/global/cyb3rwr3ck.github.io/wa_startingkit/HiHa.json"
+    ></a>
+  </body>
 </html>
