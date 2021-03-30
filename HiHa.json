@@ -69,8 +69,17 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":6,
          "firstgid":1,
-         "source":"Floorset_B1.json"
+         "image":"pics\/Floorset_B1.jpg",
+         "imageheight":64,
+         "imagewidth":192,
+         "margin":0,
+         "name":"Floorset_B1",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
