@@ -224,8 +224,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":4,
          "firstgid":274,
-         "source":"Street_Floor_2.json"
+         "image":"pics\/StreetFloorTextureF2_128.png",
+         "imageheight":128,
+         "imagewidth":128,
+         "margin":0,
+         "name":"Street_Floor_2",
+         "spacing":0,
+         "tilecount":16,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
