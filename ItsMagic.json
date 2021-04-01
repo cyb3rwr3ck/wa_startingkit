@@ -1,0 +1,15 @@
+{ "columns":10,
+ "image":"pics\/MagicCircle_Arcane_White_E_2x2.png",
+ "imageheight":320,
+ "imagewidth":320,
+ "margin":0,
+ "name":"ItsMagic",
+ "spacing":0,
+ "tilecount":100,
+ "tiledversion":"1.5.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#000000",
+ "type":"tileset",
+ "version":1.5
+}
