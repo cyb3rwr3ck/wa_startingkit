@@ -1,0 +1,15 @@
+{ "columns":28,
+ "image":"pics\/Magic1.png",
+ "imageheight":512,
+ "imagewidth":896,
+ "margin":0,
+ "name":"Magic",
+ "spacing":0,
+ "tilecount":448,
+ "tiledversion":"1.5.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#000000",
+ "type":"tileset",
+ "version":1.5
+}
