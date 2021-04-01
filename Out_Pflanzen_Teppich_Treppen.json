@@ -1,0 +1,15 @@
+{ "columns":21,
+ "image":"pics\/Pflanzen_Teppiche.png",
+ "imageheight":512,
+ "imagewidth":672,
+ "margin":0,
+ "name":"Out_Pflanzen_Teppich_Treppen",
+ "spacing":0,
+ "tilecount":336,
+ "tiledversion":"1.5.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#000000",
+ "type":"tileset",
+ "version":1.5
+}
