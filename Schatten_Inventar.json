@@ -1,0 +1,15 @@
+{ "columns":21,
+ "image":"pics\/Inventar_Schatten.png",
+ "imageheight":480,
+ "imagewidth":672,
+ "margin":0,
+ "name":"Schatten_Inventar",
+ "spacing":0,
+ "tilecount":315,
+ "tiledversion":"1.5.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#000000",
+ "type":"tileset",
+ "version":1.5
+}
