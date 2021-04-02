@@ -1,0 +1,15 @@
+{ "columns":7,
+ "image":"pics\/Billardtisch.png",
+ "imageheight":320,
+ "imagewidth":224,
+ "margin":0,
+ "name":"Billard1",
+ "spacing":0,
+ "tilecount":70,
+ "tiledversion":"1.5.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#000000",
+ "type":"tileset",
+ "version":1.5
+}
