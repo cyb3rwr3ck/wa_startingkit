@@ -58,9 +58,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jisiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"HiHaHintenS"
+                 "value":"HiHaHinten"
                 }],
          "type":"tilelayer",
          "visible":true,
