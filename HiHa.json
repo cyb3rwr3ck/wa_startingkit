@@ -150,7 +150,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/Amy-Winehouse.jpg"
+                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/posters\/amy\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -168,7 +168,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/Jimmy-Hendricks.jpg"
+                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/posters\/jimmy\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -186,7 +186,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/Frank-Zappa.jpg"
+                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/posters\/frank\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -204,7 +204,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/Mick-Jagger.jpg"
+                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/posters\/mick\/"
                 }],
          "type":"tilelayer",
          "visible":true,
