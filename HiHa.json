@@ -78,10 +78,10 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/audio\/watcher"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":40,
          "x":0,
          "y":0
@@ -114,7 +114,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/cat.mp3"
+                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/audio\/cats"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -132,7 +132,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/ouch.mp3"
+                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/audio\/ouch"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -150,7 +150,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.ruelpsen.com\/ruelpser\/ruelpser_028.mp3"
+                 "value":"https:\/\/hiha.cyb3rwr3ck.net\/audio\/burbs"
                 }],
          "type":"tilelayer",
          "visible":true,
