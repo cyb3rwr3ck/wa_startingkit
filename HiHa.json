@@ -1234,8 +1234,17 @@
          "transparentcolor":"#606060"
         }, 
         {
+         "columns":6,
          "firstgid":196,
-         "source":"Vorderhaus.tsx"
+         "image":"pics\/Floorset_B1.jpg",
+         "imageheight":64,
+         "imagewidth":192,
+         "margin":0,
+         "name":"Floorset_B1",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":5,
